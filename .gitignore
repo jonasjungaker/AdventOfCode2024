@@ -1,0 +1,17 @@
+# Visual studio files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.pyproj
+*.sln
+.vs
+
+
+# Build files
+x64
+[Bb]uild
+[Dd]ebug
+[Rr]elease
+
+UpgradeLog.htm
+
